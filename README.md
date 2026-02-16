@@ -1,6 +1,6 @@
 # Hi 👋, I'm To-Jehova
 
-### Cybersecurity Professional | Python Developer | Frontend Engineer
+### Cybersecurity Professional | Python Developer 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/to-jehova-ajero-727196169)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yechiipeng)
@@ -17,7 +17,7 @@ I'm a passionate Cybersecurity Professional and Python Developer with hands-on e
 
 - 🔐 **Cybersecurity** — SOC operations, threat detection, cryptographic protocol design & analysis
 - 🐍 **Python Development** — scripting, automation, data pipelines, and cryptography (Paillier, CKKS)
-- 🌐 **Frontend Engineering** — building clean, responsive web interfaces using HTML, CSS & JavaScript
+- 🌐 **DevSecOps** — building clean, responsive and secure software
 - 📊 **Data Analysis** — extracting and visualizing insights from complex datasets
 
 ---
@@ -61,11 +61,11 @@ I'm a passionate Cybersecurity Professional and Python Developer with hands-on e
 | [confidentiality_protocol](https://github.com/yechiipeng/confidentiality_protocol) | Design and implementation of confidentiality protocols for secure communication |
 | [Paillier_vs_CKKS](https://github.com/yechiipeng/Paillier_vs_CKKS) | Python-based comparative analysis of Paillier and CKKS homomorphic encryption schemes |
 
-### 🌐 Frontend Web Development
+### 🌐 DevSecOps
 | Repository | Description |
 |---|---|
-| [Frontend-web-development](https://github.com/yechiipeng/Frontend-web-development) | Collection of frontend projects built with HTML, CSS & JavaScript |
-| [Hng-frontend-internship](https://github.com/yechiipeng/Hng-frontend-internship) | Tasks and projects completed during the Zuri HNG Frontend Virtual Internship |
+| [DevSecOps]([(https://github.com/yechiipeng/devsecops)] | Collection of devsecops projects and tasks with AWS, Docker, Kubernetes etc.|
+
 
 ### 📊 Data Analysis
 | Repository | Description |
