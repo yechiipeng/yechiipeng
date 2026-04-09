@@ -43,7 +43,7 @@ I'm a passionate Cybersecurity Professional and Python Developer with hands-on e
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-|[Excel]|[PowerBI]|[R-studio]
+|[Excel](https://img.shields.io/badge/Excel-F37626?style=for-the-badge&logo=excel&logoColor=white)|[PowerBI]|[R-studio]
 
 **Version Control & Dev Tools:**
 
