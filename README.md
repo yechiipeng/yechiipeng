@@ -9,15 +9,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate Cybersecurity Professional and Python Developer with hands-on experience across security operations, cryptographic protocols, data analysis, and frontend web development. I thrive at the intersection of **security** and **software engineering** — building systems that are not just functional, but hardened.
+I'm a passionate Cybersecurity Professional and Python Developer with hands-on experience across security operations, GRC, cryptographic protocols, data analysis, and IT support/network engineering. I thrive at the intersection of **security** and **software engineering** — building systems that are not just functional, but hardened.
 
 ---
 
 ## 🛡️ What I Do
 
-- 🔐 **Cybersecurity** — SOC operations, threat detection, cryptographic protocol design & analysis
+- 🔐 **Cybersecurity** — SOC operations, GRC, cryptographic protocol design & analysis
 - 🐍 **Python Development** — scripting, automation, data pipelines, and cryptography (Paillier, CKKS)
-- 🌐 **DevSecOps** — building clean, responsive and secure software
+- 🌐 **IT Support/Network Engineering** — resolving day-to-day user hardware/software issues, as well as implementing, and maintaining the underlying infrastructure that connects those systems
 - 📊 **Data Analysis** — extracting and visualizing insights from complex datasets
 
 ---
@@ -38,11 +38,12 @@ I'm a passionate Cybersecurity Professional and Python Developer with hands-on e
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Data & Analytics:**
+**Data Analytics:**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+|[Excel]|[PowerBI]|[R-studio]
 
 **Version Control & Dev Tools:**
 
@@ -61,10 +62,10 @@ I'm a passionate Cybersecurity Professional and Python Developer with hands-on e
 | [confidentiality_protocol](https://github.com/yechiipeng/confidentiality_protocol) | Design and implementation of confidentiality protocols for secure communication |
 | [Paillier_vs_CKKS](https://github.com/yechiipeng/Paillier_vs_CKKS) | Python-based comparative analysis of Paillier and CKKS homomorphic encryption schemes |
 
-### 🌐 DevSecOps
+### 🌐 IT SUpport/Network Engineering
 | Repository | Description |
 |---|---|
-| [DevSecOps]([(https://github.com/yechiipeng/devsecops)] | Collection of devsecops projects and tasks with AWS, Docker, Kubernetes etc.|
+| [Network Engineering]([(https://github.com/yechiipeng/devsecops)] | Collection of network engineering projects and tasks with AWS, Docker, Kubernetes e
 
 
 ### 📊 Data Analysis
